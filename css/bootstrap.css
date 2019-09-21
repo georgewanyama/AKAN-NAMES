@@ -5165,7 +5165,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .alert-success hr {
-  border-top-color: red;
+  border-top-color: var(--blue);
 }
 
 .alert-success .alert-link {
