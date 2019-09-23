@@ -1,5 +1,8 @@
-html>body{
-background-image: src("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_07g18zgnPE__r8qrFpUaBDLkWWKN62NViufB37-1z6Y1vfM4w")
+body{
+background-image: url("https://www.barraques.cat/pngfile/big/0-7755_nature-pier-bridge-d-river-water-sunset-night.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
 }
     
 
